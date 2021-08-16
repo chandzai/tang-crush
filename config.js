@@ -1,7 +1,7 @@
 const CONFIG = {
     introTitle: 'cậu ưiii ! <333',
     introDesc: `Cậu dễ thương như vậy, bị gió kia thổi đến vòng tay của tớ rồi đó, tớ sẽ không trả lại đâu😙<3.`,
-    btnIntro: 'Chúng ta chỉ là bạn <333333',
+    btnIntro: 'Cậu hãy bấm tiếp zoo đây nè <333333',
     title: 'Phải chăng cậu đã yêu ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng cậu đã say ngay từ lúc thấy nụ cười ấy ',
     btnYes: 'Vẫn cứ là thích cậu <33',
